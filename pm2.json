@@ -1,0 +1,13 @@
+{
+    "apps": [
+        {
+            "name": "patchhub@18003",
+            "script": "dist/index.js",
+            "args": [],
+            "env": {
+                "PORT": "18003",
+                "NODE_ENV": "production"
+            }
+        }
+    ]
+}
